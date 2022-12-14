@@ -7,7 +7,7 @@ I built a machine learning model to predict whether a customer will enroll for a
 - Prepare the data
 - Train the model to learn from the data
 - Deploy the model
-- Evaluate your ML model's performance
+- Evaluate the machine learning model's performance
 
 
 # Features 
