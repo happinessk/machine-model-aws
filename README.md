@@ -16,5 +16,5 @@ I built a machine learning model to predict whether a customer will enroll for a
 
 - The XGBoost algorithm is a popular and efficient open-source implementation of the gradient boosted trees algorithm. This algorithm is used to improve the accuracy of predictions by combining the estimates of a set of simpler, weaker models.
 
-# How XGBoost Works:
+### How XGBoost Works:
 <img width="809" alt="flowchart" src="https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/xgboost_illustration.png">
