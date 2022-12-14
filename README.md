@@ -18,3 +18,4 @@ I built a machine learning model to predict whether a customer will enroll for a
 
 ### How XGBoost Works:
 <img width="809" alt="flowchart" src="https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/xgboost_illustration.png">
+source: https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost-HowItWorks.html
