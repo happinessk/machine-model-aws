@@ -1,6 +1,9 @@
 # About 
 This is machine learning model to predict whether a customer will enroll for a product offered by a bank. The model was trained on the Bank Marketing Data Set, which contains information on customer demographics, responses to marketing events, and external factors. The data has been labeled and a column in the dataset identifies whether the customer is enrolled for a product offered by the bank.
 
+# Course
+Master of Software Engineering Cloud Computing project 
+
 # Workflow
 - Label data
 - Created a SageMaker Jupyter notebook instance
